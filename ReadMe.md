@@ -6,4 +6,5 @@ Basically a batch script that installs to C:Program Files and creates shortcuts 
 
 Stuff I May Be Adding:
 .zip support
-subfolder scanning for shortcutsh
+Subfolder scanning for shortcuts
+Choosing install path
