@@ -1,0 +1,7 @@
+1.01 D2:
+Added progress colors and titles
+Added a sound once installation is completed
+
+1.01 D1:
+Sped up installation process
+Added seperators
