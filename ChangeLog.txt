@@ -1,7 +1,10 @@
-1.01 D2:
+Development: 1.0.1 D2
+
 Added progress colors and titles
 Added a sound once installation is completed
-
-1.01 D1:
 Sped up installation process
 Added seperators
+
+Main: 1.0.0
+
+None of those ^
