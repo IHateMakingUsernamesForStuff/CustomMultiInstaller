@@ -7,3 +7,8 @@ Excluding the admin prompt, this script requires no intervention.
 
 Make sure the folder is formatted like this:
 ![image](https://github.com/IHateMakingUsernamesForStuff/CustomMultiInstaller/assets/153030981/8638c034-80bb-43ae-814b-354950a750f6)
+
+-----------------------------------------------------------------------------------------------
+
+Bash version is updated and maintained by ![micw1417](https://github.com/micw1417)
+(Not available yet)
