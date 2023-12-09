@@ -6,4 +6,4 @@ Basically a batch script that installs to C:\Program Files and creates shortcuts
 Excluding the admin prompt, this script requires no intervention.
 
 This script is great for installing multiple programs at once or installing programs without installers.
------------------------------------------------------------------------------------------------
+
