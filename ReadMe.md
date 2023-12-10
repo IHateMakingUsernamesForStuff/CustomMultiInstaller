@@ -7,3 +7,5 @@ Excluding the admin prompt, this script requires no intervention.
 
 This script is great for installing multiple programs at once or installing programs without installers.
 
+Development versions under releases!
+------------------------------------
