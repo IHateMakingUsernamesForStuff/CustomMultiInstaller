@@ -9,3 +9,4 @@ This script is great for installing multiple programs at once or installing prog
 
 Development versions under releases!
 ------------------------------------
+(Batch files don't have source code, edit it directly.)
